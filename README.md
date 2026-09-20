@@ -1,6 +1,6 @@
 # EXP-6---Matrix-multiplication-using-cuBLAS-in-CUDA-C-
-<h3>ENTER YOUR NAME: Stephen raj Y</h3>
-<h3>ENTER YOUR REGISTER NO: 212223230217</h3>
+<h3>ENTER YOUR NAME: JASHWIN S Y</h3>
+<h3>ENTER YOUR REGISTER NO: 212224040131</h3>
 <h3>EX. NO: 06</h3>
 <h3>DATE: 31/08/2026</h3>
 
